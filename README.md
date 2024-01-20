@@ -1,5 +1,5 @@
-## 👋 Hello, I'm Fede
-Im a passionate Backend developer who enjoy working on projects!
+## 👋 Hello, I'm Federico
+Im a **passionate** Backend developer who enjoy working on projects!
 
 # 💻 Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
