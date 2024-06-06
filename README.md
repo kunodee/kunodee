@@ -17,6 +17,8 @@ I'm a **passionate** Backend developer who enjoy working on projects!
 ![Static Badge](https://img.shields.io/badge/MySQL-yellow?style=flat&logo=MySQL)
 ![Static Badge](https://img.shields.io/badge/Sqlite-blue?style=flat&logo=sqlite)
 ![Static Badge](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
+![Static Badge](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
+![Static Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 Github Statistics
 <img src="https://github-profile-trophy.vercel.app/?username=kunodee&theme=onedark&no-frame=true&no-bg=true&margin-w=4">
@@ -25,5 +27,5 @@ I'm a **passionate** Backend developer who enjoy working on projects!
 &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunodee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 # 💰 Help me by donating:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kunode) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kunode) &nbsp;
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DonateToKey)
