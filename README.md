@@ -18,7 +18,7 @@ I'm a **passionate** Backend developer who enjoy working on projects!
 ![Static Badge](https://img.shields.io/badge/Sqlite-blue?style=flat&logo=sqlite)
 ![Static Badge](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
 ![Static Badge](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
-![Static Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 
 # 📊 Github Statistics
 <img src="https://github-profile-trophy.vercel.app/?username=kunodee&theme=onedark&no-frame=true&no-bg=true&margin-w=4">
