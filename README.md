@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Federico
 I'm a **passionate** Backend developer who enjoy working on projects!
 
-# 💻 Languages and Tools:
+# 🔨 Languages & Tools:
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
 ![Static Badge](https://img.shields.io/badge/Arduino-green?style=flat&logo=arduino)
 ![Static Badge](https://img.shields.io/badge/Bash-black?style=flat&logo=gnubash)
@@ -17,8 +17,9 @@ I'm a **passionate** Backend developer who enjoy working on projects!
 ![Static Badge](https://img.shields.io/badge/MySQL-yellow?style=flat&logo=MySQL)
 ![Static Badge](https://img.shields.io/badge/Sqlite-blue?style=flat&logo=sqlite)
 ![Static Badge](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
-![Static Badge](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
 ![Static Badge](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=Stripe&logoColor=white)
 
 # 📊 Github Statistics
 <img src="https://github-profile-trophy.vercel.app/?username=kunodee&theme=onedark&no-frame=true&no-bg=true&margin-w=4">
