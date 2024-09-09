@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Federico
-I'm a **passionate** Backend developer who enjoy working on projects!
+I'm a passionate full stack developer!
 
 # 🔨 Languages & Tools:
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
